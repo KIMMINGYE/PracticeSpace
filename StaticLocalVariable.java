@@ -1,4 +1,4 @@
-package sex;
+package prac;
 
 public class StaticLocalVariable {
 
